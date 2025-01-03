@@ -68,8 +68,8 @@ Where:
 
 Repeat this calculation for both Cleveland and Hackettstown distributions.
 
-#### Compare $\chi^2 $Values
-Compare the calculated $\chi^2 $statistic to the **critical value** from the Chi-Square table (or compute a p-value using statistical software). The critical value depends on:
+#### Compare $\chi^2$ Values
+Compare the calculated $\chi^2$ statistic to the **critical value** from the Chi-Square table (or compute a p-value using statistical software). The critical value depends on:
 - Degrees of freedom ($df = \text{number of colors} - 1 = 5$).
 - Desired significance level (e.g., $\alpha = 0.05 $).
 
