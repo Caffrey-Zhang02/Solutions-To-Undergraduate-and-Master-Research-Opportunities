@@ -1,5 +1,6 @@
 # Q1: 
 The **Geometric distribution**  defined by the probability mass function best models the except number of tries required for a successfully grabbing:
+
 $$ P(X = k) = (1 - p)^{k-1} p $$
 
 Where:
