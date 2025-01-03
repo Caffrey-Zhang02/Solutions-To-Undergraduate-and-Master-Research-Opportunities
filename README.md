@@ -4,9 +4,9 @@ The **Geometric distribution**  defined by the probability mass function best mo
 $$ P(X = k) = (1 - p)^{k-1} p $$
 
 Where:
-- $ X $ is the number of tries until success.
-- $ k $ is the number of trials.
-- $ p $ is the probability of success on any given trial.
+- $X$ is the number of tries until success.
+- $k$ is the number of trials.
+- $p$ is the probability of success on any given trial.
 
 #### Estimate $ p $ from the Data
 - If we observe the number of trials $ k $ to get a success, the average number of trials over many observations will give us an estimate of the expected number of trials, $ E[X] $, which for a Geometric distribution is given by:
